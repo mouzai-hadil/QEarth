@@ -33,21 +33,21 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
+ - Full Name: Hadil Mouzai
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 Team Member 2:
- - Full Name: 
+ - Full Name: Dounia Boutaguia
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 3:
- - Full Name: 
+ - Full Name: Mahmoud Elkaragy
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
 Team Member 4:
- - Full Name: 
+ - Full Name: Adem Seabstian Rios Kirste
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 
